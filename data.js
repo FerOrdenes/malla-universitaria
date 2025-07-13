@@ -10,5 +10,4 @@ const malla = [
             { nombre: "Autorregulación", creditos: 3, prerrequisitos: [], descripcion: "", nota: null }
         ]
     }
-    // Puedes continuar completando el resto de los semestres
 ];
